@@ -1,0 +1,1 @@
+import{_ as i,c as r,o,ae as t}from"./chunks/framework.BSq5xCrN.js";const p=JSON.parse('{"title":"Chi siamo","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),e={name:"about.md"};function n(s,a,l,c,d,g){return o(),r("div",null,a[0]||(a[0]=[t("",5)]))}const u=i(e,[["render",n]]);export{p as __pageData,u as default};

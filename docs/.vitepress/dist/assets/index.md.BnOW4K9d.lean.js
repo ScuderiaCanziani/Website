@@ -1,0 +1,1 @@
+import{_ as i,c as t,o as e,ae as o}from"./chunks/framework.BSq5xCrN.js";const _=JSON.parse('{"title":"Scuderia Canziani","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"};function r(s,a,l,c,d,p){return e(),t("div",null,a[0]||(a[0]=[o("",5)]))}const m=i(n,[["render",r]]);export{_ as __pageData,m as default};
